@@ -1,9 +1,9 @@
 # SalesBook - Recruitment Task.
 
 ## Introduction
-This app is fully written in Swift language using UIKit. \n
+This app is fully written in Swift language using UIKit. 
 
-I used MVVM architecture for the first time. I decided to use it, because it is one of the best architecture for bigger projects. I know that this project is not a big one yet, but who knows how will it change in the future. \n
+I used MVVM architecture for the first time. I decided to use it, because it is one of the best architecture for bigger projects. I know that this project is not a big one yet, but who knows how will it change in the future. 
 
 The project is based on the API: https://exchangeratesapi.io/ which allows to download the currency data in many configurations.
 
