@@ -50,7 +50,7 @@
 		DD4251D925CAF11400628F07 /* DetailedViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailedViewModel.swift; sourceTree = "<group>"; };
 		DD4251DE25CAF83900628F07 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
 		DD4251E325CB2C7900628F07 /* CoreFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreFile.swift; sourceTree = "<group>"; };
-		DD4251E625CB325700628F07 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
+		DD4251E625CB325700628F07 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../GoogleService-Info.plist"; sourceTree = "<group>"; };
 		DD9EC2A925CC0D9100F3A0A8 /* SalesBook_AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SalesBook_AppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DD9EC2AB25CC0D9100F3A0A8 /* SalesBook_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SalesBook_AppTests.swift; sourceTree = "<group>"; };
 		DD9EC2AD25CC0D9100F3A0A8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
