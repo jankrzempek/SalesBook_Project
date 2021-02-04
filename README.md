@@ -1,9 +1,9 @@
-# SalesBook_Project-Recruitment Task.
+# SalesBook - Recruitment Task.
 
-#Introduction
+## Introduction
 
-#Features
+## Features
 
-#Build process
+## Build process
 
-#Acknowledgments
+## Acknowledgments
